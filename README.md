@@ -42,5 +42,6 @@ Si noti che non compare il termine $x_1-x_0$ perché, dati gli intervalli consid
 Esempio di interpolazione per sin⁡51:
 
 ![image](https://github.com/user-attachments/assets/22c317f5-88dc-4da3-baf4-a441793c20a3)
- 
+
+
 [documentazione completa](https://github.com/omgbarde/RTL_bardelli_final_project/blob/d8d4e70075061255359b0004ea0bc3573606a8db/Relazione%20Bardelli.pdf)
